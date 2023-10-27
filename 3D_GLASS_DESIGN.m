@@ -1,6 +1,3 @@
-PYTHON EN GOOGLE COLLAB: 
-https://colab.research.google.com/drive/1lEhzgO-d1RnTugZ2xsmx6g36-ocF0ver?usp=sharing
-
 CODIGO IMPLEMENTADO EN MATLAB:
 % Crea una malla de valores para u y v
 u = linspace(-0.002, 16, 150);
